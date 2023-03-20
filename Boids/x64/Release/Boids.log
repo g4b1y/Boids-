@@ -1,0 +1,23 @@
+﻿  Boid.cpp
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,14): error C2065: 'Boid': undeclared identifier
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,7): error C2923: 'std::vector': 'Boid' is not a valid template type argument for parameter '_Ty'
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21): message : see declaration of 'Boid'
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(438): message : see declaration of 'std::vector'
+  Display.cpp
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(14,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(14,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(24,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(24,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Vector2D.cpp
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,14): error C2065: 'Boid': undeclared identifier
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,7): error C2923: 'std::vector': 'Boid' is not a valid template type argument for parameter '_Ty'
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21): message : see declaration of 'Boid'
+C:\Users\gagug\source\repos\Boids\Boids\Display.hpp(21,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(438): message : see declaration of 'std::vector'
+C:\Users\gagug\source\repos\Boids\Boids\Boid.hpp(17,31): error C2061: syntax error: identifier 'Vector2D'
+C:\Users\gagug\source\repos\Boids\Boids\Boid.hpp(20,11): error C3646: 'speed': unknown override specifier
+C:\Users\gagug\source\repos\Boids\Boids\Boid.hpp(20,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\gagug\source\repos\Boids\Boids\Boid.hpp(21,11): error C3646: 'pos': unknown override specifier
+C:\Users\gagug\source\repos\Boids\Boids\Boid.hpp(21,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

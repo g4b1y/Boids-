@@ -1,0 +1,38 @@
+﻿  Boid.cpp
+C:\Users\gagug\source\repos\Boids\Boids\Boid.cpp(43,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Boid.cpp(43,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Boid.cpp(53,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Boid.cpp(53,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Display.cpp
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(60,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(61,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(70,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(70,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(143,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(144,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(144,79): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(144,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(148,104): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(148,77): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(148,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(149,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(153,101): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(153,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(153,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(154,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(167,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(168,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(168,79): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(168,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(172,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(173,104): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(173,77): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(173,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(177,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(178,101): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(178,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\gagug\source\repos\Boids\Boids\Display.cpp(178,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+  Vector2D.cpp
+  Generating Code...
+  Boids.vcxproj -> C:\Users\gagug\source\repos\Boids\Boids\x64\Debug\Boids.exe
